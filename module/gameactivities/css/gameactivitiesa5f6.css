@@ -1,0 +1,16 @@
+.game-activities {font-family:Arial;padding:100px 0;position:relative;margin-top:-513px;}
+.game-activities .game-activities-wrap {position:relative;}
+.game-activities .game-activities-header {background:url('../images/top-cloud.png') center bottom no-repeat;background-size:100%;padding:200px 0 10px;}
+.game-activities .game-activities-header h2{text-align:center;margin-bottom:70px;position:relative;font-family: "ARCO Typography", Arial, sans-serif;color:#cc4d33;}
+.game-activities .game-activities-header h2 .big-header{font-size:60px;display:block;}
+.game-activities .game-activities-header h2 .small-header{font-size:48px;display:block;}
+.game-activities .game-activities-header h2:before{content:"";width:264px;height:427px;background:url('../images/ufo.png') center center no-repeat;background-size:contain;position:absolute;top:-154px;left:0;right:0;margin:auto;}
+.game-activities .game-activities-body {background:#fff;padding:10px 0 50px;}
+.game-activities .game-activities-detail {padding:0 30px;font-weight:bold;color:#b15632;}
+.game-activities .game-activities-detail .game-activities-description p{padding:5px 0px;}
+.game-activities .game-activities-detail img{max-width:100%;width:auto;}
+.game-activities .game-activities-footer {background:url('../images/bottom-cloud.png') center bottom no-repeat;height:450px;position:relative;}
+.game-activities .game-activities-footer:before {content:"";background:url('../images/ufo-bottom.png') left top no-repeat;background-size:contain;height:500px;width:500px;position:absolute;left:0;top:-120px;}
+.game-activities .game-activities-footer:after {content:"";background:url('../images/chicken-island.png') right top no-repeat;background-size:contain;height:400px;width:400px;position:absolute;right:0;top:0;}
+.game-activities .game-activities-wrap .next-icon {right:-50px;}
+.game-activities .game-activities-wrap .prev-icon {left:-50px;}
